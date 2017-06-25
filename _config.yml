@@ -1,0 +1,12 @@
+# Site settings
+title: Avalon Assets
+email: assetsavalon@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://avalonassets.github.io" # the base hostname & protocol for your site
+
+twitter_username: AvalonAssets
+github_username: AvalonAssets
+
+# Build settings
+markdown: kramdown
